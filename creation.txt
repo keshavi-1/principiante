@@ -1,0 +1,25 @@
+create table Donor(id integer(10),donor_id integer(10),name varchar(100),gender varchar(100),age integer(10),location varchar(100),mobile integer(11),blood_group varchar(100),disease varchar(100),unit varchar(20));
+ALTER TABLE DONOR ADD PRIMARY KEY (donor_id);
+alter table donor add column ID_registration_team int(10);
+alter table donor add foreign key (ID_registration_team) references  registration_team(ID_registration_team);
+
+create table blood(blood_ID integer(10),blood_group varchar(100));
+ALTER TABLE blood ADD PRIMARY KEY (blood_id);
+
+create table clinical_analyst(CA_ID varchar(5),name varchar(100));
+ALTER TABLE clinical_analyst ADD PRIMARY KEY (CA_ID);
+
+create table blood_bank(blood_bank_ID varchar(5),name varchar(100),location varchar(100),quantity varchar(5),available blood group varchar(10));
+ALTER TABLE blood_bank ADD PRIMARY KEY (blood_bank_ID);
+
+create table manager(ID_M integer(10),Name varchar(100),Location varchar(100));
+ALTER TABLE manager ADD PRIMARY KEY (ID_M);
+
+create tabe hospital(ID_hospital integer(10),Name varchar(100),Location varchar(100)) ;
+ALTER TABLE hospital ADD PRIMARY KEY (ID_hospital);
+
+create table patients(Patient_ID varchar(5),name varchar(100),Gender varchar(100),contact integer(11),address varchar(100),blood_group varchar(5));
+ALTER TABLE patients ADD PRIMARY KEY (Patient_ID);
+
+create table registration_team(ID_registration_team integer(10),Name varchar(100));
+ALTER TABLE  registration_team ADD PRIMARY KEY (ID_registration_team);

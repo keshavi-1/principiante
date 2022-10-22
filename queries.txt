@@ -1,0 +1,30 @@
+
+select*from donor where age>=25;
+select unit,blood_group,donor_id from donor where disease='thalassemia'or 'diabetes';
+select name, mobile from donor where name like 'A%';
+select name, mobile from donor where name like '%A';
+select * from patients where blood_group='O+';
+select * from patients where blood_group='B+';
+select donor_id from donor were unit='250ml';
+select count(donor_id) from donor where unit>'250ml';
+select blood_group, count (Patient_ID) from patients group by blood_group;
+select blood_group,name,location,mobile from donor where blood_group ='O+' order by name;
+select count(blood_bank_ID) from blood_bank where quantity>2;
+select count(blood_bank_ID) from blood_bank where quantity<2;
+select ID_M from manager order by ID_M asc;
+select max(ID_registration_team) from registration_team;
+select min(ID_registration_team) from registration_team;
+select CA_ID from clinical_analyst;
+select name from hospital where location='Mumbai';
+
+
+
+
+
+
+
+
+
+
+
+

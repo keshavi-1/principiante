@@ -1,0 +1,160 @@
+
+
+
+1.(INSERTION IN DONOR)
+
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(02,552,'Radhika','female',34,'Indore',987654321,'O+','sickle cells','200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(03,334,'Piyush','Male',18,'Mumbai',36475746,'A+','Anaemia','470ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(04,456,'Yuvraj','male',25,'Pune',987654321,'A+','B.P','250ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(05,678,'Rishiraj','male',40,'Aurangabad',123456765,'AB+',NULL,'150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(06,432,'mahi','female',20,'Jabalpur',567898765,'AB-',NULL,'150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(07,668,'Shubi','female',20,'Indore',898989898,'A-',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(08,432,'Khushi','female',21,'Pune',785478907,'AB+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(09,891,'Manya','female',54,'Bhopal',45673289,'O+','B.P'.,'400ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(10,744,'Naman','male',50,'chennai',456738987,'0+','diabetes','350ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(11,322,'Rahul','male',45,'delhi',563427890,'O-','Thalassemia','100ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(12,228,'Kunal','male',34,'Kashmir',898967453,'AB+','diabetes','450ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(13,210,'Vedant','male',57,'Shirpur',678967453,'O+',NULL,'175ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(14,229,'Rishi','male',20,'bhopal',756790786,'O+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(15,110,'Pratham','male',19,'rajasthan',765467890,'B+',NULL,'150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(16,120,'Rishita','female',22,'Hyderabad',79806432,'B+',NULL,'100ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(17,004,'Soumya','female',37,'Mumbai',98654321,'O+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(18,002,'Anushka','female',42,'West bengal',43879543,'A+',NULL,'225ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(19,981,'Simran','female',25,'Mumbai',659876432,'AB+',NULL,'350ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(20,101,'vansh','male',29,'Mumbai',765432980,'B-',NULL,'470ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(21,778,'Iishan','male',30,'Bhopal',876509875,'B-',NULL,'400ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(22,500,'Harsh','Male',18,'Indore',544678906,'O+',NULL,'300ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(23,499,'Ansh','Male',37,'Aurangabad',345678906,'AB-',NULL,'350ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(24,777,'dhruv','male',44,'Mumbai',785634219,'A+',NULL,'150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(25,600,'Sakshi','female',50,'Indore',783412890,'A+','Diabetes','225ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(26,209,'Keshavi','female',20,'Navi Mumbai',894523679,'O-',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(27,231,'Ninad','male',35,'Aurangabad',785634128,'O+',NULL,'250ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(28,214,'shivam','male',29,'Bhopal',543267548,'AB+',NULL,'400ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(29,205,'Mukesh','Male',32,'Indore',435678907,'B-',NULL,'100ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(30,200,'Kamlesh','Male',45,'Mumbai',324567896,'B+','Thalassemia','100ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(31,210,'yash','male',21,'Indore',434658790,'O+',NULL,'300ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(32,200,'Akshat','male',24,'mumbai',234567891,'O-',NULL,'250ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(33,202,'Nidhish','Male',35,'bhopal',345678930,'A+','B.P','200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(34,016,'Tanisha','Female',40,'Jhasi',345678234,'A-',NULL,'250ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(35,111,'Teesha','female',46,'Agra',452317869,'B+','Thalassemia','200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(36,222,'Vanshika','female',50,'Goa',67452318,'B-','Diabeties','150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(37,303,'Savio','Male',33,'delhi',896745231,'AB+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(38,444,'Vidhi','Female',44,'lonavala',785634129,'AB-','Diabetes','200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(39,501,'Raja','Male',19,'pune',234567890,'O+',NULL,'300ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(40,333,'Sahil','male',21,'Pune',674523189,'O+',NULL,'350ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(41,344,'Sarthak','male',25,'Indore',907856342,'O+',NULL,'350ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(42,208,'Riya','Female',19,'Ujjain',674523198,'AB+',NULL,'400ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(43,204,'Harshita','female',40,'Jabalpur',563412890,'B+',NULL,'250ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(44,001,'Devansh','male',56,'mumbai',564321678,'A+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(45,002,'Arpit','male',55,'Banglore',678965432,'B-','B.P','150ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(46,003,'Adithya','male',27,'Chennai',786543219,'O+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(47,004,'Allen','male',22,'Kerela',879065789,'A+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(48,404,'Parth','male',37,'udaipur',768908765,'O+',NULL,'170ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(49,420,'Ritika','female',38,'Bhopal',768908765,'AB+',NULL,'200ml');
+ insert into donor(id,donor_id,name,gender,age,location,mobile,blood_group,disease,unit)values(50,512,'Divyanshi','female',40,'Mumbai',786908765,'O+',NULL,'100ml');
+__________________________________________________________________________________________________________________________________________________________________________________________________________
+2.(INSERTION IN BLOOD)
+insert into blood(blood_ID,blood_group)values(1001,'A+');
+insert into blood(blood_ID,blood_group)values(1002,'A-');
+insert into blood(blood_ID,blood_group)values(1003,'B+');
+insert into blood(blood_ID,blood_group)values(1004,'B-');
+insert into blood(blood_ID,blood_group)values(1005,'O+');
+insert into blood(blood_ID,blood_group)values(1006,'O-');
+insert into blood(blood_ID,blood_group)values(1007,'AB+');
+insert into blood(blood_ID,blood_group)values(1008,'AB-');
+_______________________________________________________________________________________
+3.(INSRTION IN CLINICAL ANALYST)
+insert into clinical_analyst(CA_ID,Name)values('A1','Mahaveer');
+insert into clinical_analyst(CA_ID,Name)values('A2','Manpreet');
+insert into clinical_analyst(CA_ID,Name)values('A3','Manish');
+insert into clinical_analyst(CA_ID,Name)values('A4','Jagdesh');
+_____________________________________________________________________________________________________________________________________________
+4.(INSERTION IN BLOOD_BANK)
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B1','Redproud blood banks','Mumbai',1.5,'AB+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B2','Urban blood bank foundation','Mumbai',0.5,'O+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B3','Friends2support blood banks','pune',2,'O-');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B4','Redcross society foundation','Indore',1,'B+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B5','Sankalp india foundation','Indore',1,'B-');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B6','National blood banks','bhopal',2,'O+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B7','Arthar blood bank','aurangabad',0.5,'B-');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B8','Shivaji Maharaj blood bank','Aurangabad',0.5,'B+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B9','Redrose blood bank','delhi',1,'O+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B10','lifeline blood bank','Bhopal',0.75,'AB-');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B11','Hamidiya blood bank','Bhopal',0.8,'O+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B12','Blood2blood foundation','Jaipur',1,'B+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B13','Blood4life blood foundation','Kerela',2,'AB+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B14','Lions blood bank foundation','Udaipur',0.5,'AB+');
+insert into blood_bank(blood_bank_ID,name,Location,quantity,available_blood_group)values('B15','Sidhanta blood foundation','Pune',1,'0+');
+_______________________________________________________________________________________________________________________________________________
+5.(INSRTION IN MANAGER)
+insert into manager(ID_M,name,location)values(99999,'jonny','Mumbai');
+insert into manager(ID_M,name,location)values(84695,'ram','Indore');
+insert into manager(ID_M,name,location)values(11234,'Rajat','bhopal');
+insert into manager(ID_M,name,location)values(26874,'Solani','Udaipur');
+insert into manager(ID_M,name,location)values(77845,'Suhani','Kerela');
+insert into manager(ID_M,name,location)values(88865,'Sudha','Pune');
+insert into manager(ID_M,name,location)values(44895,'Narendra','Bhopal');
+insert into manager(ID_M,name,location)values(32459,'Rashi','Mumbai');
+insert into manager(ID_M,name,location)values(49249,'Jayesh','Indore');
+insert into manager(ID_M,name,location)values(10000,'Priyanshu','Udaipur');
+_______________________________________________________________________________________________________________________________________________	
+6.(INSERTION IN HOSPITAL)
+insert into hospital(ID_hospital,name,location)values(101,'J$K hospital','Bhopal');
+insert into hospital(ID_hospital,name,location)values(102,'Janjeevan Hospital','Pune');
+insert into hospital(ID_hospital,name,location)values(103,'Bansal hospital','Bhopal');
+insert into hospital(ID_hospital,name,location)values(104,'Bombay hospital','Mumbai');
+insert into hospital(ID_hospital,name,location)values(105,'National hospital','Pune');
+insert into hospital(ID_hospital,name,location)values(106,'Ramacharan hospital','kerela');
+insert into hospital(ID_hospital,name,location)values(107,'Lifeline hopital','Indore');
+insert into hospital(ID_hospital,name,location)values(108,'Arihant hospital','Udaipur');
+insert into hospital(ID_hospital,name,location)values(109,'Lifeplus hospital','Aurangabad');
+insert into hospital(ID_hospital,name,location)values(110,'Indian hospital','Mumbai');
+insert into hospital(ID_hospital,name,location)values(111,'AIIMS','Bhopal');
+insert into hospital(ID_hospital,name,location)values(112,'AIIMS','Indore');
+insert into hospital(ID_hospital,name,location)values(113,'AIIMS','Aurangabad');
+insert into hospital(ID_hospital,name,location)values(114,'AIIMS','Mumbai');
+insert into hospital(ID_hospital,name,location)values(115,'AIIMS','Delhi');
+insert into hospital(ID_hospital,name,location)values(116,'AIIMS','Udaipur');
+insert into hospital(ID_hospital,name,location)values(117,'AIIMS','Pune');
+insert into hospital(ID_hospital,name,location)values(118,'Life hospital','Delhi');
+insert into hospital(ID_hospital,name,location)values(119,'Viveka hospital','Nagpur');
+insert into hospital(ID_hospital,name,location)values(120,'Livelong hospital','Indore');
+________________________________________________________________________________________________________________________________________________
+7.(INSERTION IN PATIENTS)
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT1','Rohan','male',078563412,'Mumbai','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT2','Vinayak','male',768965439,'Pune',O+);
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT3','Chetan','male',456789876,'Indore','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT4','Shree','male',879098765,'Bhopal','O-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT5','Rishabh','male',765897453,'Aurangabad','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT6','Sanika','female',876909876,'Delhi','AB+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT7','Anushka','female',768909876,'Noida','AB-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT8','Viraj','male',768909856,'Lakhnow','A-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT9','Dhruvil','male',765897645,'Bihar','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT10','Smith','male',345678765,'West Bengal','B+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT11','Martin','male',546789876,'Kerela','B+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT12','Aakash','male',236574897,'Chennai','B+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT13','Anay','male',465789876,'Assam','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT14','Vivek','male',768597453,'Indore','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT15','Joy','male',750987679,'Bhopal','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT16','Jitendra','male',648976543,'Jharkhand','AB-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT17','Naina','female',759809876,'Mumbai','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT18','Naveen','male',789098765,'Pune','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT19','Pratyasha','female',657898765,'Aurangabad','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT20','Anita','female',768909876,'Indore','A-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT21','Geeta','female',657898745,'Indore','B+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT22','Sneha','female',759687432,'Delhi','B-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT23','Neha','female',756987534,'Delhi','AB+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT24','Puru','male',860987658,'Bhopal','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT25','Namit','male',978675645,'Ujjain','O+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT26','Amit','male','Pune',768594857,'AB-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT27','Richa','female',76859485,'Pune','A-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT28','Radha','female',76898765,'Mumbai','A+');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT29','Bunny','male',354678987,'Bhopal','B-');
+ insert into patients(Patient_ID,name,gender,contact,address,blood_group)values('PT30','Aman','male',54678754,'Pune','B+');
+______________________________________________________________________________________________________________________________________________
+8.(INSERTION IN REGISTRATION TEAM)
+insert into registration_team(ID_registration_team,Name)values(205,'Prakash');
+insert into registration_team(ID_registration_team,Name)values(200,'Sachin');
+insert into registration_team(ID_registration_team,Name)values(301,'Deepak');
+insert into registration_team(ID_registration_team,Name)values(331,'Naresh');
+insert into registration_team(ID_registration_team,Name)values(456,'Subash');
